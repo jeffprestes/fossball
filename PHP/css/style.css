@@ -1,0 +1,34 @@
+/* BASIC RESET */
+ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input{margin:0; padding:0;}
+
+/* HTML ELEMENTS */
+body { font: 12px "Lucida Grande","Lucida Sans Unicode",Helvetica,Arial,Verdana,sans-serif; }
+span { font: 400 20px 'Droid Sans', sans-serif; cursor: pointer}
+img  { cursor: pointer }
+
+/* h1 { padding:60px 0 0 40px; } */
+/* p { padding:10px 40px; } */
+/* a { color:#999; text-decoration:none; } */
+/* a:hover { text-decoration:underline; } */
+
+/* Divs gerais */
+#aguarde {display: none; position: absolute; left: 130px; top: 150px}
+#txtOla { font-weight: bold; position: absolute; left: 170px; top: 97px}
+
+/* Index */
+#imgNewBie  { height: 60px; width: 50px }
+#divNewBie {padding: 25px 10px 0 10px;}
+#imgVeterano { height: 60px; width: 50px }
+#divVeterano {padding: 15px 10px 0 10px;}
+#imgPlacar { height: 60px; width: 50px }
+#divPlacar {padding: 15px 10px 0 10px;}
+#txtNewBie { position: absolute; left: 75px; top: 180px}
+#txtVeterano { position: absolute; left: 75px; top: 255px}
+#txtPlaca { position: absolute; left: 75px; top: 328px}
+
+/* Partida */
+#divNovaPartida { display: none; padding: 15px 10px 0 10px;}
+#imgNovaPartida { height: 60px; width: 50px }
+#txtNovaPartida { position: absolute; left: 75px; top: 190px}
+#divMsgTopo { width: 310px; padding-left: 5px}
+#txtMsgTopo { font: normal x-small}
